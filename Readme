@@ -1,0 +1,3 @@
+Buenas, pongo en contexto la situaciòn y el inconveniente a resolver: 
+
+La problematica se basa en que dos conjuntos de datos se deben compararar para verificar si coinciden o no. Este es un trabajo muy engorroso para realizarlo manualmente, es por eso que empiezo a realizar estos dos scripts en donde comparo dos listas obtenidas de un disco virtual compartido que maneja una empresa para alojar ciertos datos y una base de datos situadas en un excel. Esto se realiza para poder certificar que falta en cada listado. Adjunto dos archivos mas, aparte de este, para que vean los dos scripts que he realizado para automatizar dicha funciòn. 
